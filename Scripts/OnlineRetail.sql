@@ -1,4 +1,4 @@
-REATE DATABASE OnlineRetailDB;
+CREATE DATABASE OnlineRetailDB;
 USE OnlineRetailDB;
 go
 
